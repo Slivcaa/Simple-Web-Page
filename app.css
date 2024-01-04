@@ -1,0 +1,88 @@
+body{
+	background: #20232D;
+	font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar{
+	
+	font-size: 1rem;
+	font-weight: 100;
+	
+	}
+#mainNavbar .nav-link{
+	
+	color: #d3d3d3;
+	
+	
+} 
+
+#mainNavbar .nav-link:hover{
+	
+	color: white;
+	
+} 
+
+#headingGroup h2{
+	
+	font-weight: 100;
+	font-size: 2rem;
+	
+}
+
+
+.navbar.scrolled {
+    background: black;
+    transition: background 500ms;
+}
+
+@media (max-width:1200px){
+	#headingGroup h2{
+	
+	font-weight: 100;
+	font-size: 2rem;
+	
+}
+}
+
+.content{
+	margin-top: 40px;
+}
+
+#projects{
+	font-weight: 100;
+	font-size: 3rem;
+	text-decoration: none;
+	margin-top: 125px;
+	
+	
+}
+
+#about{
+	font-weight: 100;
+	font-size: 3rem;
+	text-decoration: none;
+	margin-bottom: 50px;
+	margin-top: 100px;
+	
+}
+
+#contact{
+	font-weight: 100;
+	font-size: 3rem;
+	text-decoration: none;
+	margin-top: 100px;
+	
+}
+
+.project_1{
+	margin-top: 20px;
+	font-weight: 100;
+	font-size: 1.5rem;
+}
+
+.lead{
+	font-weight: 100;
+	font-size: 1rem;
+	line-height: 2;
+}
+
